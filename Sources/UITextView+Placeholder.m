@@ -54,7 +54,7 @@
 #pragma mark `defaultPlaceholderColor`
 
 + (UIColor *)defaultPlaceholderColor {
-    return return [UIColor grayColor];;
+    return [UIColor grayColor];
 }
 
 
